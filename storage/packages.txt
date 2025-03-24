@@ -1,0 +1,3 @@
+{
+    "opticraft": "https://example.com/path/to/opticraft.zip"
+}
